@@ -27,7 +27,25 @@
 
 
 // Console.Write("Введите первое число: ");
-// int num = Convert.ToInt32(Console.ReadLine());
+// int n = Convert.ToInt32(Console.ReadLine());
+
+//   int Sum(int n)
+//   {
+    
+//     int counter = Convert.ToString(n).Length;
+//     int advance = 0;
+//     int result = 0;
+
+//     for (int i = 0; i < counter; i++){
+//       advance = n - n % 10;
+//       result = result + (n - advance);
+//       n = n / 10;
+//     }
+//    return result;
+//   }
+
+// int sum = Sum(n);
+// Console.WriteLine(sum);
 
 
 
